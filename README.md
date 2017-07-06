@@ -1,6 +1,6 @@
 OSUplayer---A Music Player 4 All Osuers!
 ===========
-Written in C# with .Net Framework 3.5
+Writtn in C# with .Net Framework 3.5
 
 ## Dependencies
 [Bass&Bass.Net](http://www.un4seen.com/),
